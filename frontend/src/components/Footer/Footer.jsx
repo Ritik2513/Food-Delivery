@@ -9,8 +9,7 @@ function Footer() {
         <div className="footer-content-left">
           <img src={assets.logo} alt="" />
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Beatae,
-            velit!
+          Fresh flavors, Delivered fast
           </p>
           <div className="footer-social-icons">
             <img src={assets.facebook_icon} alt="" />
